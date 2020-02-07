@@ -1,4 +1,4 @@
-# Laravel Browser Lang
+# Laravel Trans Browser
 
 ## About
 
